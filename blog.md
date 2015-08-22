@@ -7,3 +7,4 @@
 * [黄忠|计算机与互联网](http://www.huangzhong.ca/)
 * [廖雪峰](http://www.liaoxuefeng.com/)
 * [Enhanced Linux](https://enhancedlinux.com/)
+* [初夏](https://www.cxsir.com/)
