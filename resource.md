@@ -7,3 +7,4 @@
 * HexChat irc client <https://hexchat.github.io/>
 * dnf doc <https://media.readthedocs.org/pdf/dnf/latest/dnf.pdf>
 * web develop <http://www.w3resource.com/>
+* web develop <http://www.w3schools.com/>
