@@ -6,3 +6,4 @@
 - <http://www.w3school.com.cn/index.html>
 - <https://readthedocs.org/>
 - Linux Kernel Mailing List <https://lkml.org/>
+- weechat <https://weechat.org/>
