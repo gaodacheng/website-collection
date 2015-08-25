@@ -1,4 +1,5 @@
 # technical
+- Ruby <https://www.ruby-lang.org/zh_cn/>
 - <http://www.privoxy.org/>
 - <http://www.squid-cache.org/>
 - <https://wordpress.org/>
