@@ -11,3 +11,4 @@
 * 大前端 <http://www.daqianduan.com/>
 * Theo Winter <https://theowinter.ch/>
 * Jason's code blog <http://code.jasonbhill.com/>
+* Damieng <http://damieng.com/>
