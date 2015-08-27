@@ -1,5 +1,6 @@
 # pastebin
 * <http://pastebin.com/>
+* cmd | nc termbin.com 9999 <http://termbin.com/>
 * <http://codepad.org/>
 * <https://bpaste.net/>
 * opensuse paste <http://paste.opensuse.org/>
