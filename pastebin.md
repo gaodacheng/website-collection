@@ -5,3 +5,4 @@
 * <https://bpaste.net/>
 * snapshot picture <http://snag.gy/>
 * usercloud picture <https://userscloud.com/>
+* imgur <http://imgur.com/>
