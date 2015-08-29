@@ -1,4 +1,5 @@
 # technical
+- mysql tutorial <http://www.mysqltutorial.org/>
 - Ruby <https://www.ruby-lang.org/zh_cn/>
 - <http://www.privoxy.org/>
 - <http://www.squid-cache.org/>
