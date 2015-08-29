@@ -6,6 +6,7 @@
 - <https://wordpress.org/>
 - <http://www.netfilter.org/documentation/index.html>
 - <http://www.w3school.com.cn/index.html>
+- <http://www.w3schools.com/>
 - <https://readthedocs.org/>
 - Linux Kernel Mailing List <https://lkml.org/>
 - weechat <https://weechat.org/>
