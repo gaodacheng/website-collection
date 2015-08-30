@@ -11,3 +11,4 @@
 - Linux Kernel Mailing List <https://lkml.org/>
 - weechat <https://weechat.org/>
 - pac & wpad <http://findproxyforurl.com/>
+- typecho theme <http://app.typecho.me/>
