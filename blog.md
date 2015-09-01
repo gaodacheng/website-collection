@@ -14,3 +14,4 @@
 * Jason's code blog <http://code.jasonbhill.com/>
 * Damieng <http://damieng.com/>
 * 韩风 <http://i.cwind.pub/>
+* [Brad Frost | web design] <http://bradfrost.com/>
