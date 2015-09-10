@@ -1,4 +1,7 @@
 # technical
+
+- talent matching <https://www.workshape.io/>
+- new generation survey <http://www.typeform.com/>
 - mysql tutorial <http://www.mysqltutorial.org/>
 - Ruby <https://www.ruby-lang.org/zh_cn/>
 - <http://www.privoxy.org/>
