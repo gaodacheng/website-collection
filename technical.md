@@ -4,6 +4,7 @@
 - new generation survey <http://www.typeform.com/>
 - mysql tutorial <http://www.mysqltutorial.org/>
 - Ruby <https://www.ruby-lang.org/zh_cn/>
+- PyGame <http://pygame.org/>
 - <http://www.privoxy.org/>
 - <http://www.squid-cache.org/>
 - <https://wordpress.org/>
