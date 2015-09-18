@@ -1,5 +1,6 @@
 #Blog on technich
 
+* 霸哥博客 lararel <http://www.varbug.com/>
 * 庄七 -- 破事 <http://www.po-shi.com/>
 * <http://www.brainpickings.org/>
 * [matt catlett | web developter in Canada] <http://programminglife.net/>
