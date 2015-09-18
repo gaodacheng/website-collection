@@ -1,5 +1,6 @@
 #Blog on technich
 
+* 庄七 -- 破事 <http://www.po-shi.com/>
 * <http://www.brainpickings.org/>
 * [matt catlett | web developter in Canada] <http://programminglife.net/>
 * [老高的技术博客](http://www.phpgao.com/)
