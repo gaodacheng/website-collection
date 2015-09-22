@@ -1,7 +1,7 @@
 # linux
-* <https://www.debian.org/>
-* <http://www.redhat.com/>
-* <https://getfedora.org/>
-* <https://www.centos.org/>
+* Debian <https://www.debian.org/>
+* Red Hat <http://www.redhat.com/>
+* Fedora <https://getfedora.org/>
+* CentOS <https://www.centos.org/>
 * <https://www.backbox.org/>
-* <http://www.linuxmint.com/>
+* Linux Mint <http://www.linuxmint.com/>
