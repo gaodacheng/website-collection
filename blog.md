@@ -1,5 +1,6 @@
 #Blog on technich
 
+* 聚合小段精华代码 <http://www.codebit.cn/>
 * web design <http://wesbos.com/>
 * 霸哥博客 lararel <http://www.varbug.com/>
 * 庄七 -- 破事 <http://www.po-shi.com/>
