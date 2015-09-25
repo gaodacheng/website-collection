@@ -1,5 +1,6 @@
 # technical
 
+- video hosting with business <http://wistia.com/>
 - talent matching <https://www.workshape.io/>
 - quora <http://www.quora.com/>
 - new generation survey <http://www.typeform.com/>
