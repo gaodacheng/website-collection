@@ -1,6 +1,7 @@
 # technical
 
 - talent matching <https://www.workshape.io/>
+- quora <http://www.quora.com/>
 - new generation survey <http://www.typeform.com/>
 - mysql tutorial <http://www.mysqltutorial.org/>
 - Ruby <https://www.ruby-lang.org/zh_cn/>
