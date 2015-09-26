@@ -1,5 +1,6 @@
 # technical
 
+- code geek <http://codek.tv/>
 - web design <https://teamtreehouse.com/>
 - video hosting with business <http://wistia.com/>
 - talent matching <https://www.workshape.io/>
