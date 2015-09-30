@@ -1,5 +1,6 @@
 #Blog on technich
 
+* linux, hardware, opensource <http://www.phoronix.com/>
 * <http://www.learningarenas.com/>
 * Levien work for google <http://www.levien.com/>
 * 聚合小段精华代码 <http://www.codebit.cn/>
