@@ -1,5 +1,6 @@
 # technical
 
+- learn web design online <http://www.sitepoint.com/>
 - koding online free <https://koding.com/>
 - code geek <http://codek.tv/>
 - web design <https://teamtreehouse.com/>
