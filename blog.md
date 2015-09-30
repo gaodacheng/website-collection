@@ -1,5 +1,6 @@
 #Blog on technich
 
+* business insider <http://uk.businessinsider.com/>
 * linux, hardware, opensource <http://www.phoronix.com/>
 * <http://www.learningarenas.com/>
 * Levien work for google <http://www.levien.com/>
