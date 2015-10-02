@@ -1,5 +1,6 @@
 #Blog on technich
 
+* help desk geed <http://helpdeskgeek.com/>
 * business insider <http://uk.businessinsider.com/>
 * linux, hardware, opensource <http://www.phoronix.com/>
 * <http://www.learningarenas.com/>
