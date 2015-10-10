@@ -1,5 +1,6 @@
 #Blog on technich
 
+* Dayle Rees 's blog <http://daylerees.com/>
 * technology and business news <http://www.content-loop.com/>
 * help desk geed <http://helpdeskgeek.com/>
 * business insider <http://uk.businessinsider.com/>
