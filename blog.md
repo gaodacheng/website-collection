@@ -1,5 +1,6 @@
 #Blog on technich
 
+* technology and business news <http://www.content-loop.com/>
 * help desk geed <http://helpdeskgeek.com/>
 * business insider <http://uk.businessinsider.com/>
 * linux, hardware, opensource <http://www.phoronix.com/>
