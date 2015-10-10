@@ -1,5 +1,6 @@
 # documentation
 
+* Linux Info <http://www.linfo.org/>
 * Conky <http://conky.sourceforge.net/docs.html>
 * SSL HowTo <http://www.tldp.org/HOWTO/SSL-Certificates-HOWTO/index.html>
 * typecho theme tutorial <http://docs.typecho.org/themes/quick-tutorial>
