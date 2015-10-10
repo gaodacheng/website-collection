@@ -1,6 +1,6 @@
 # technical
 
-- 4bit terminal color scheme designed <http://ciembor.github.io/4bit/>
+- 4bit terminal color scheme designer <http://ciembor.github.io/4bit/>
 - terminal color scheme <https://terminal.sexy/>
 - drivers collection <https://driverscollection.com/>
 - learn web design online <http://www.sitepoint.com/>
