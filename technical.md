@@ -1,5 +1,6 @@
 # technical
 
+- terminal color scheme <https://terminal.sexy/>
 - drivers collection <https://driverscollection.com/>
 - learn web design online <http://www.sitepoint.com/>
 - koding online free <https://koding.com/>
