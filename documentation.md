@@ -1,5 +1,6 @@
 # documentation
 
+* [Official NetBSD Guide]<http://www.netbsd.org/docs/guide/en/index.html>
 * Linux Info <http://www.linfo.org/>
 * Conky <http://conky.sourceforge.net/docs.html>
 * SSL HowTo <http://www.tldp.org/HOWTO/SSL-Certificates-HOWTO/index.html>
