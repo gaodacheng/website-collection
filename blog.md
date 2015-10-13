@@ -1,5 +1,6 @@
 #Blog on technich
 
+* [pythoner.com](http://www.pythoner.com/ "python learn note")
 * [Daniel Miessler's website](https://danielmiessler.com "start website from 1999")
 * Dayle Rees 's blog <http://daylerees.com/>
 * technology and business news <http://www.content-loop.com/>
