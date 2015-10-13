@@ -6,3 +6,5 @@ There are some nice vps hosting commerce.
 | 18vps | <http://www.18vps.com/> |
 | bandwagon | <https://bandwagonhost.com/> |
 | digitalocean | <https://www.digitalocean.com/> |
+| BuyVM | <http://buyvm.net/> |
+| RamNode | <http://www.ramnode.com/> |
