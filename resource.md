@@ -1,5 +1,6 @@
 # Resource
 
+* stc datasheet <http://www.stcmicro.com/datasheet/>
 * progit online <http://git.oschina.net/progit/>
 * font <http://www.1001fonts.com/>
 * font <http://www.1001freefonts.com/>
