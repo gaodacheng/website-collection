@@ -1,2 +1,4 @@
 #World Top Domain Registries
-- 1. [namesilo](https://www.namesilo.com/)
+
+- [1API](http://www.1api.net/ "CEO: Jens Wagner")
+- [namesilo](https://www.namesilo.com/)
