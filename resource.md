@@ -1,5 +1,6 @@
 # Resource
 
+* avr-libc <http://www.nongnu.org/avr-libc/>
 * stc datasheet <http://www.stcmicro.com/datasheet/>
 * progit online <http://git.oschina.net/progit/>
 * font <http://www.1001fonts.com/>
