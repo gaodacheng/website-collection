@@ -1,5 +1,6 @@
 # technical
 
+- [dcj tech](http://dcjtech.info/ "Technological Information for the world")
 - [Interactive Vim Tutorial](http://www.openvim.com/ "nice platform to learn vim for beginner")
 - 4bit terminal color scheme designer <http://ciembor.github.io/4bit/>
 - terminal color scheme <https://terminal.sexy/>
