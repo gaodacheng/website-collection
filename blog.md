@@ -1,5 +1,6 @@
 #Blog on technich
 
+* [冻仁的笔记](http://note.drx.tw/ "from taiwan")
 * [freedompenguin.com](http://freedompenguin.com/ "Linux Software Reviews, Discussion and Articles")
 * [pythoner.com](http://www.pythoner.com/ "python learn note")
 * [Daniel Miessler's website](https://danielmiessler.com "start website from 1999")
