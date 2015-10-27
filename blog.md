@@ -1,5 +1,6 @@
-#Blog on technich
+# Blog on tech
 
+* [Radek | London worker](http://radek.io/)
 * [电子爱好者博客](http://ruten-proteus.blogspot.com/)
 * [冻仁的笔记](http://note.drx.tw/ "from taiwan")
 * [freedompenguin.com](http://freedompenguin.com/ "Linux Software Reviews, Discussion and Articles")
