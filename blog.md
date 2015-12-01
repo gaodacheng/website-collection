@@ -1,5 +1,6 @@
 # Blog on tech
 
+* [龙哥盟](http://www.flygon.net/ "电子书收集")
 * [雪痕](http://xinyo.org/ "这里没有末路，你从不曾孤独。")
 * [Radek | London worker](http://radek.io/)
 * [电子爱好者博客](http://ruten-proteus.blogspot.com/)
