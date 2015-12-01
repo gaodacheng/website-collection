@@ -21,6 +21,7 @@
 * <http://www.brainpickings.org/>
 * [matt catlett | web developter in Canada] <http://programminglife.net/>
 * [老高的技术博客](http://www.phpgao.com/)
+* [php学者](http://www.phpxz.com/)
 * [Linux服务器运维日志](https://www.centos.bz/)
 * [TypechoDev](http://www.typechodev.com/)
 * [土木坛子|谭智军](https://tumutanzi.com/)
