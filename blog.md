@@ -1,5 +1,6 @@
 # Blog on tech
 
+* [雪痕](http://xinyo.org/ "这里没有末路，你从不曾孤独。")
 * [Radek | London worker](http://radek.io/)
 * [电子爱好者博客](http://ruten-proteus.blogspot.com/)
 * [冻仁的笔记](http://note.drx.tw/ "from taiwan")
