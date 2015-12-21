@@ -1,5 +1,6 @@
 # Blog on tech
 
+* [AbcLite](http://www.abclite.cn/ "个人技术分享及行业信息类")
 * [等车的猪's Blog](http://singlepig-blog.logdown.com/)
 * [龙哥盟](http://www.flygon.net/ "电子书收集")
 * [雪痕](http://xinyo.org/ "这里没有末路，你从不曾孤独。")
