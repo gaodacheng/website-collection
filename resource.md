@@ -3,6 +3,7 @@
 * avr-libc <http://www.nongnu.org/avr-libc/>
 * stc datasheet <http://www.stcmicro.com/datasheet/>
 * progit online <http://git.oschina.net/progit/>
+* fontlibrary <https://fontlibrary.org/en>
 * font <http://www.1001fonts.com/>
 * font <http://www.1001freefonts.com/>
 * font <http://www.fontsquirrel.com/>
