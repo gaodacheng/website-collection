@@ -9,3 +9,4 @@ There are some nice vps hosting commerce.
 | BuyVM | <http://buyvm.net/> |
 | RamNode | <http://www.ramnode.com/> |
 | quickhostuk | <https://www.quickhostuk.com/> |
+| Vultr | https://my.vultr.com/ |
