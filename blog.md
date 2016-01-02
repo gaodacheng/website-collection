@@ -1,5 +1,6 @@
 # Blog on tech
 
+* [土木达人](http://tumudaren.com/ "土木达人的博客")
 * [AbcLite](http://www.abclite.cn/ "个人技术分享及行业信息类")
 * [等车的猪's Blog](http://singlepig-blog.logdown.com/)
 * [龙哥盟](http://www.flygon.net/ "电子书收集")
